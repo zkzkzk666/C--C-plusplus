@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\\u7B97\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|solutionrelative:STL\\\u7B97\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\\u51FD\u6570\u5BF9\u8C61.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|solutionrelative:STL\\\u51FD\u6570\u5BF9\u8C61.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|solutionrelative:STL\\\u5BB9\u5668.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|solutionrelative:STL\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CECBE2C-E291-4B90-9E13-32B77C25CF23}|STL\\STL.vcxproj|solutionrelative:STL\\string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7B97\u6CD5.cpp",
+              "DocumentMoniker": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\\u7B97\u6CD5.cpp",
+              "RelativeDocumentMoniker": "STL\\\u7B97\u6CD5.cpp",
+              "ToolTip": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\\u7B97\u6CD5.cpp",
+              "RelativeToolTip": "STL\\\u7B97\u6CD5.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T10:20:26.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u51FD\u6570\u5BF9\u8C61.cpp",
+              "DocumentMoniker": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\\u51FD\u6570\u5BF9\u8C61.cpp",
+              "RelativeDocumentMoniker": "STL\\\u51FD\u6570\u5BF9\u8C61.cpp",
+              "ToolTip": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\\u51FD\u6570\u5BF9\u8C61.cpp",
+              "RelativeToolTip": "STL\\\u51FD\u6570\u5BF9\u8C61.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T03:38:56.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u5BB9\u5668.cpp",
+              "DocumentMoniker": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\\u5BB9\u5668.cpp",
+              "RelativeDocumentMoniker": "STL\\\u5BB9\u5668.cpp",
+              "ToolTip": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\\u5BB9\u5668.cpp",
+              "RelativeToolTip": "STL\\\u5BB9\u5668.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T08:00:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vector.cpp",
+              "DocumentMoniker": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\vector.cpp",
+              "RelativeDocumentMoniker": "STL\\vector.cpp",
+              "ToolTip": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\vector.cpp",
+              "RelativeToolTip": "STL\\vector.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T01:40:57.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "string.cpp",
+              "DocumentMoniker": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\string.cpp",
+              "RelativeDocumentMoniker": "STL\\string.cpp",
+              "ToolTip": "D:\\Users\\1\\Desktop\\C\u4E0EC\u002B\u002B\\C\u002B\u002B\\STL\\STL\\string.cpp",
+              "RelativeToolTip": "STL\\string.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T10:44:57.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
